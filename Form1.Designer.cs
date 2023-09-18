@@ -121,7 +121,7 @@ namespace aulasem2
             this.renomeado.Name = "renomeado";
             this.renomeado.Size = new System.Drawing.Size(75, 23);
             this.renomeado.TabIndex = 5;
-            this.renomeado.Text = "0=445";
+            this.renomeado.Text = "Cadastrar";
             this.renomeado.UseVisualStyleBackColor = true;
             // 
             // Form1
